@@ -2,9 +2,6 @@
 
 A modern, responsive user dashboard built with React.js that demonstrates fundamental React concepts and best practices. This project showcases user management capabilities with a clean, professional interface.
 
-## 🚀 Live Demo
-
-The app is deployed and ready to view at: [Your Dashboard URL Here]
 
 ## 📱 Screenshots
 
