@@ -6,13 +6,14 @@ A modern, responsive user dashboard built with React.js that demonstrates fundam
 ## 📱 Screenshots
 
 ### Dashboard Overview
-![Dashboard](https://via.placeholder.com/800x400/3B82F6/FFFFFF?text=Dashboard+Overview)
+
+https://drive.google.com/file/d/1bCXN3pNAmiFnXhD2qoh6HQSBtZLBXgV0/view?usp=sharing
 
 ### User Details Page
-![User Details](https://via.placeholder.com/800x400/3B82F6/FFFFFF?text=User+Details+Page)
+https://drive.google.com/file/d/1wL2Xlmo2qLsht402ZyitWLgH30Vad_-z/view?usp=sharing
 
 ### Mobile Responsive
-![Mobile](https://via.placeholder.com/400x600/3B82F6/FFFFFF?text=Mobile+View)
+https://drive.google.com/file/d/1Le2rI_W-0DEYd-iXB9Q8J47VrHtTRHYj/view?usp=sharing
 
 ## ✨ Features
 
